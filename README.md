@@ -1,11 +1,13 @@
 ## Cryptocurrency Analysis Using KMeans and Principle Component Analysis
 
 The purpose of this project is to use unsupervised machine learning to cluster cryptocurrencies by their performance in different time periods. The KMeans algorithm will be used on the original data to analyze and plot the crypto performances. Then, principle component analysis (PCA) will be performed on the data to reduce the number of features before running the KMeans algorithm again on this data. The results will be plotted side-by-side and analyzed.
+
 ---
 
 ## Technologies
 
 This project will be coded in Python. We will use multiple libraries and dependencies, including pandas and hvplot as well as KMeans, PCA, and StandardScaler from the sklearn library.
+
 ---
 
 ## Installation Guide
